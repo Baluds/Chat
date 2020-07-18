@@ -22,6 +22,7 @@
 
 # Flutter/Dart/Pub related
 **/doc/api/
+**/android/app/google-services.json
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
